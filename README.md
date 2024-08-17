@@ -55,7 +55,7 @@ To run the examples in this repository, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/typescript-oop-concepts.git
+    git clone https://github.com/reetamroyburman/typescript-oop-concepts.git
     cd typescript-oop-concepts
     ```
 
@@ -71,7 +71,7 @@ To run the examples in this repository, follow these steps:
 
 4. **Run the examples:**
     ```bash
-    node dist/<filename>.js
+    node dist/index.js
     ```
 
 ## Usage
